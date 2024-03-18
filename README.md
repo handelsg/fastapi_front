@@ -6,6 +6,6 @@ Este projeto é uma aplicação web construída com React e TypeScript, projetad
 Ps: para ser sincero não tive bom desempenho no front, além de ser novo com a tecnologia, me deparei com muitos erros nas instalações das dependencias, porém consegui estruturar bastante lendo as documentações e testando, sempre aberto a novos aprendizados.
 
 
-
+Não foi um dos meus melhores desempenhos porém estou sempre aberto a aprender mais
 
 
